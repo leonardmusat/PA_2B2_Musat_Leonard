@@ -6,7 +6,7 @@ Author: Musat Leonard - 2B2
 
 ### Requirements
 
-> Create a Maven project. ✔️
+> Create a Maven project. ✔️ <br>
 > Create an object-oriented model of the problem. Students and projects have names. Make sure the objects of these classes are comparable. ✔️ <br> 
 > Create the students and the projects described in the example. Use streams in order to easily create the objects. ✔️ <br>
 > Put all the students in a LinkedList and print them sorted by their names. ❌ <br>
