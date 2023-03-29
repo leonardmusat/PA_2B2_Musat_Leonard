@@ -1,0 +1,1 @@
+{"id":"0002","title":"Doc2","location":"DOC2.txt","tags":{"ADD":{"documentation":"This Command add a new document in catalog"},"LIST":{"documentation":"This command print all the objects"}}}
