@@ -1,4 +1,4 @@
-# PA Lab 2
+# PA Lab 11
 ## Compulsory part solving 
 
 Solved assignments are checkmarked ✔️.<br />
